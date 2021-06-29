@@ -1,4 +1,4 @@
-const apiKey = "161f848b3d5da5f2b9bd64c95b5f643a"
+const apiKey = // add apiKey
 const imgURL = "https://image.tmdb.org/t/p/w500"
 
 const getMovieData = (tmdbID) => {
